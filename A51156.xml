@@ -1,0 +1,721 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A phylosophical and medicinal essay of the waters of Tunbridge written to a person of honour / by Pat. Madan ...</title>
+            <author>Madan, Patrick.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51156</idno>
+            <idno type="STC">Wing M244</idno>
+            <idno type="STC">ESTC R16300</idno>
+            <idno type="EEBO-CITATION">13355433</idno>
+            <idno type="OCLC">ocm 13355433</idno>
+            <idno type="VID">99235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 465:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A phylosophical and medicinal essay of the waters of Tunbridge written to a person of honour / by Pat. Madan ...</title>
+                  <author>Madan, Patrick.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mineral waters --  England --  Tunbridge Wells.</term>
+               <term>Tunbridge Wells (England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99235:1"/>
+            <pb facs="tcp:99235:1" rendition="simple:additions"/>
+            <p>A PHYLOSOPHICAL, AND Medicinal Eſſay OF THE WATERS OF TUNBRIDGE.</p>
+            <p>Written to a Perſon of Honour.</p>
+            <p>By PAT. MADAN M. D.</p>
+            <q>
+               <l>Temporibus Medicina juvat. data tempore prodeſt,</l>
+               <l>Et data non apto tempore Lympha nocet.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, MDCLXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:99235:2"/>
+            <pb n="1" facs="tcp:99235:2"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT was your Honours pleaſure, to ask my judgement concerning <hi>Tunbridge-waters,</hi> becauſe I oft recom<g ref="char:EOLhyphen"/>mend my Patients to them; which in my opinion are not Inferior in <hi>Medicinal Virtues</hi> to any <hi>Spaw</hi> of that kind: For by their Effects, which is an
+<note n="*" place="margin">Demonſtratis à poſteriori.</note> after-demonſtration; they are impregnated with a <hi>Chalcanteous</hi> or <hi>Vi<g ref="char:EOLhyphen"/>triolate Juice;</hi> which, with its <hi>Sulphureous Particles</hi> irritates and moves the Belly to <hi>Blackiſh Excreti<g ref="char:EOLhyphen"/>on,</hi> and by frequent Drinking thereof, it <hi>Blackneth</hi> the Tongue, becauſe this member being of a <hi>Spongy Subſtance</hi> imbibes ſome <hi>Sooty Sulphureous Minims</hi> into its <hi>Poroſity,</hi> occaſioning this <hi>Tincture.</hi>
+            </p>
+            <p>Through its more ſubtiler piercing <hi>Chalchantous Spirits,</hi> it provokes <hi>
+                  <g ref="char:V">Ʋ</g>rine</hi> in a plentiful manner.</p>
+            <p>To theſe is admixt ſome <hi>Ferrugineous Juice,</hi> which con<g ref="char:EOLhyphen"/>tains a great deal of the <hi>Volatile Salt,</hi> which is it that is diſſolv'd in the <hi>Chalybeat-Wine,</hi> now ſo much in Vogue amongſt <hi>Phyſitians.</hi>
+            </p>
+            <p>His <hi>Aquis ferrum ineſſe videtur in principiis ſolutis unde earum vis Chalybeata intimius Sanguine permiſcetur &amp; poten<g ref="char:EOLhyphen"/>tius morbis expugnat quam ferrum quocunque demum artificio nobilitatum, Dr.</hi> Sydenham. <hi>Theſe Waters ſeem to contain Iron in its unconcrete and ſeminal Principles, whereupon their Chalybeat Virtue is more intirely mix'd with the Blood, and more
+<pb n="2" facs="tcp:99235:3"/>powerfully attaques Diſeaſes, then Iron prepar'd to the beſt ad<g ref="char:EOLhyphen"/>vantage can; Dr.</hi> Sydenham.</p>
+            <p>Mars <hi>in its ſelf confists chiefly, of</hi> Salt, Sulphur, <hi>and</hi> Earth: <hi>It has very little of Spirit and Water, and Particles of the former Elements, eſpecially the</hi> Sulphureous <hi>and</hi> Saline <hi>in the mixt are combin'd together with</hi> Earth, <hi>remain wholly fix'd; but being looſed and divided from each other (as in theſe Wa<g ref="char:EOLhyphen"/>ters) have a very efficacious Energy; Dr.</hi> Willis <hi>de Chaly<g ref="char:EOLhyphen"/>beatis.</hi>
+            </p>
+            <p>In them <hi>Galles ſhaven,</hi> or <hi>Oake-leaves</hi> added; or by pouring to them ſome infuſion of <hi>Tea</hi> made in <hi>Water,</hi> they'l become of an <hi>Atropurpureous Colour;</hi> to which in-Stilling ſome drops of <hi>Spirit</hi> of <hi>Vitriol,</hi> or pouring thereunto ſome <hi>Sherry,</hi> becomes clear again and <hi>Redintegrats</hi> its <hi>Priſtine Colour.</hi> On the Surface of theſe <hi>Waters,</hi> there's a <hi>Grey-Filme</hi> in a Morning; they have a Roughneſs in the Mouth, with 'em no <hi>Arſenical Vapors</hi> are intermix'd, but void of all noxious quality, are <hi>Limpid</hi> and <hi>Salutiferous.</hi> many do daily receive Benefit by the uſe of 'em: Wherefore by
+<note n="*" place="margin">Syndrome Phaino<g ref="char:EOLhyphen"/>menoon.</note> the concurrence of theſe appearances they have the <hi>Characteriſtick</hi> of a good and wholeſom <hi>Spaw.</hi>
+            </p>
+            <p>As for their Virtues and Properties in <hi>Phyſick,</hi> I believe if there be any ſuch Remedy in Being as a <hi>Panpharmacon,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Remedy,</hi> 'tis here: For even as <hi>Soap</hi> put to <hi>Foul Linnen</hi> with <hi>Water,</hi> Purgeth and Cleanſeth all Filth, and maketh them to become <hi>White</hi> again; ſo theſe <hi>Waters</hi> with their <hi>Saponary</hi> and <hi>Deterſive Quality</hi> clean all the whole <hi>Microcoſm</hi> or Body of man from all <hi>Feculency</hi> and <hi>Im<g ref="char:EOLhyphen"/>purities. Vid.</hi> the firſt <hi>Region</hi> by <hi>Black Seige;</hi> the ſecond by <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> the third by <hi>Tranſpiration,</hi> ſending forth from the <hi>Center</hi> to the <hi>Circumference</hi> many <hi>Sooty</hi> and <hi>Fetid Effluviums,</hi> which in ſome, colour their <hi>Shirt Blackiſh,</hi>
+               <pb n="3" facs="tcp:99235:3"/>
+               <note n="*" place="margin">Harum enim ſubſtantia liquida notannda quantitas per intimos viſcerum receſſus pre<g ref="char:EOLhyphen"/>terfluens, peccantes &amp; in pro<g ref="char:EOLhyphen"/>priis cuniculis ſtagnantes ſuc<g ref="char:EOLhyphen"/>cos egregie everrit morbo<g ref="char:EOLhyphen"/>rumque cauſam averruncet, Materiam tartaream &amp; viſco<g ref="char:EOLhyphen"/>ſam diſſoluunt: Hepatis quo<g ref="char:EOLhyphen"/>que &amp; renum calidam in tem<g ref="char:EOLhyphen"/>periem corrigunt.</note> An obſervable quantity of this <hi>Li<g ref="char:EOLhyphen"/>quid</hi> Subſtance, gliding through the Inner Paſſages of the <hi>Bowels,</hi> bruſhes off the <hi>Peccant Humours</hi> that ſtagnate in their proper Channels, and root out the Cauſe and Origen of <hi>Diſ<g ref="char:EOLhyphen"/>eaſes:</hi> The <hi>Acidulae</hi> alſo diſſolve <hi>Tar<g ref="char:EOLhyphen"/>tarous</hi> and <hi>Viſcous Matter,</hi> and cor<g ref="char:EOLhyphen"/>rect the hot Indiſpoſition of <hi>Liver</hi> and <hi>Kidnies:</hi> See the Author <hi>Fredericus Loſſius in Conciliis Medicis.</hi>
+            </p>
+            <p>Wherefore the uſe of theſe <hi>Waters</hi> have deſervedly gain'd a great eſteem and reputation in Curing many <hi>Chronick</hi> and <hi>Rebellious Diſeaſes,</hi> which are accounted the ſhame of <hi>Phy<g ref="char:EOLhyphen"/>ſitians;</hi> for they Cure even to a Miracle, ſuch as are quite given over by <hi>Doctors,</hi> they may well be nam'd <hi>Aquae Vitae,</hi> or <hi>Waters of Life,</hi> becauſe they reſtore men to Life, and make them live twice:
+<note n="*" place="margin">Quia vita priori poſſe frui eſt bis vivere.</note> Be<g ref="char:EOLhyphen"/>cauſe to enjoy their former Health is to live again, for Sickneſs and Neu<g ref="char:EOLhyphen"/>trality of Health, as the <hi>Greeks</hi> ſay, is but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>To live without Life;</hi> wherefore
+<note n="*" place="margin">Non eſt vivere ſed bene valere Vita Martial.</note> Life is not only to live and breath, but alſo to have perfect Health; and that is got here by Drinking.</p>
+            <p>
+               <note n="*" place="margin">Ad has aquas medici poſtquam aegros magna &amp; ſump<g ref="char:EOLhyphen"/>tuoſo medicamentorum appa<g ref="char:EOLhyphen"/>ratu longo tempoae defati<g ref="char:EOLhyphen"/>garunt cum vident res ſibi ex voto non ſuccedere, miſeros relegant; tanquam ad ſacram anchoram ſunt enim efficaciſ<g ref="char:EOLhyphen"/>ſimum &amp; potentiſſimum reme<g ref="char:EOLhyphen"/>dium ad profligandos graviſ<g ref="char:EOLhyphen"/>ſtmos morbos a Deo conceſſum, ſi dextra manu porrigantur quod Poeta exprimit his ver<g ref="char:EOLhyphen"/>ſibus.</note> 
+               <hi>Phyſitians</hi> when they have tyr'd their miſerable afflicted Patients with tedious and Chargeable courſes of <hi>Phyſick</hi> (finding all ways elſe unſuc<g ref="char:EOLhyphen"/>ceſsful) at laſt ſend 'em to theſe <hi>Wa<g ref="char:EOLhyphen"/>ters,</hi> which they lay hold of, as a Sacred Anchor, for they are the moſt Efficacious and Powerful Remedy
+<pb n="4" facs="tcp:99235:4" rendition="simple:additions"/>againſt the greateſt and moſt Inve<g ref="char:EOLhyphen"/>terate Diſeaſes; by the appointment of Almighty God, provided they are made uſe of in a due and right manner; which the <hi>Poet</hi> ex<g ref="char:EOLhyphen"/>preſſes in theſe words.</p>
+            <lg>
+               <l>Publica morborum requies, commune medentum,</l>
+               <l>Auxilium, praeſens numen, inemptaque ſalus,</l>
+               <l>Amiſſium reparant lymphis impune vigorem,</l>
+               <l>Peccaturque aegro luxuriante dolor.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Diſeaſes publick eaſe; a common heal,</hi>
+               </l>
+               <l>
+                  <hi>A free-coſt-Health; a God does never fail,</hi>
+               </l>
+               <l>
+                  <hi>Vigour to Men reſtore with eaſe, avail,</hi>
+               </l>
+               <l>
+                  <hi>All pain in wanton Patient's does aſſail.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>But if you take 'em in the left hand, or by the wrong handle, they cauſe thouſands of Diſeaſes, and haſten even death it ſelf.</hi> Fredericus Loſſius in Conciliis de morbis Hypochondriacis.</p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Etenim maſsae Sanguineae Effatae &amp; Langueſcenti vola<g ref="char:EOLhyphen"/>tile quoddam fermentorum, ſeu calcaria ſubdit, à quo exci<g ref="char:EOLhyphen"/>tantur &amp; quaſi eriguntur ſpi<g ref="char:EOLhyphen"/>ritus antea jacentes &amp; ſuo pon<g ref="char:EOLhyphen"/>dere preſſi: Sanguinem vigo<g ref="char:EOLhyphen"/>rat ejuſque vim</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>redintegrant: Nam quoties Chalybeata in chloroſi ſeu fe<g ref="char:EOLhyphen"/>bre alba vel amatoria propi<g ref="char:EOLhyphen"/>nantur pulſus de repente ma<g ref="char:EOLhyphen"/>jor fit &amp; celeror: Exte<g ref="char:EOLhyphen"/>riora corporis incaleſcunt, fa<g ref="char:EOLhyphen"/>cies non amplius pallida &amp; morti concolor, ſed vivida cernitur &amp; Sanguine purpu<g ref="char:EOLhyphen"/>rata,</hi> Fredericus Loſſius.</note> 
+               <hi>Chalybeats</hi> Cure not ſo much by opening Obſtructions of the <hi>Viſcera,</hi> as by depreſſing the Exaltations of <hi>Sulphur</hi> and fixt <hi>Salts,</hi> and by <hi>Volati<g ref="char:EOLhyphen"/>lizing</hi> the Blood much Depauperated and made <hi>Effete</hi> as in <hi>Cachectick Bodies:</hi> For they communicate a <hi>Volatile</hi> ſort of <hi>Ferment;</hi> as a Spur to the <hi>Effete</hi> and <hi>Languid Maſſe</hi> of Blood, by which the Spirits that before lay gaſping as it were, and preſs'd down with their own weight, are excited and made more lively; by <hi>Invigorating</hi> the Blood, and renwing the <hi>Ferment;</hi> For as ſoon as <hi>Chalybeat
+<pb n="5" facs="tcp:99235:4"/>Medicines</hi> are made uſe of in the <hi>Green-ſickneſs,</hi> the Pulſe be<g ref="char:EOLhyphen"/>comes ſuddenly greater and quicker: The External parts of the Body grow hot, the Face no longer Pale and Dead-colour'd, but freſh and Purpled with Blood it ſelf.</p>
+            <p>Betwixt the <hi>Ferment</hi> of the <hi>Stomach</hi> and <hi>Chalybeats,</hi> there's a mutual conflict, as appears by the <hi>Nidorolent Bel<g ref="char:EOLhyphen"/>ches,</hi> and <hi>Eructations</hi> after taking 'em, as if one had eaten hard Fryed Eggs: In this re-action <hi>Chalybeats</hi> undergo a diſſolution within the <hi>Viſcera</hi> of Concoction, and the active Particles, both <hi>Sulphureous</hi> and <hi>Saline</hi> diſplay themſelves and mixing with the <hi>Nutritive Juice,</hi> are carried into the Blood which they <hi>Inactuate.</hi>
+            </p>
+            <p>
+               <hi>Chalybeat-Waters</hi> by their many and divers Seminary Principles with which they are embryonated, are very powerful and efficacious in curing of many and divers Di<g ref="char:EOLhyphen"/>ſeaſes, tho' they be of a contrary Nature and Diſpoſition; for they ſerve not only as a Bridle, but alſo as a Spur: Yet I would not adviſe them to be drunk indifferently by all Conſtitutions and Sexes, without the Advice of a Phyſi<g ref="char:EOLhyphen"/>cian, who by his Prudent Conduct and management, weigh<g ref="char:EOLhyphen"/>ing all
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Indications, Contra-indications,</hi> and <hi>Co-indications</hi> according to <hi>Diſ<g ref="char:EOLhyphen"/>cretion,</hi> may obviate all <hi>Symptoms</hi> that may ſurvene, and thereby render them more uſeful, and effectual; the <hi>Pota<g ref="char:EOLhyphen"/>tion</hi> of <hi>Waters</hi> thus Circumſtantiated, may deſerve to be called the moſt powerful Hand of God; and keep their Reputation untainted: But without this Caution, they may prove a Sword in a <hi>Mad-Mans</hi> hand, and not at all <hi>Auxiliary,</hi> but pernicious and hurtful: Hence comes the ſaying,
+<note n="*" place="margin">Peſſimum mortis ſed op<g ref="char:EOLhyphen"/>timam vitae inſtrumenturs.</note> 
+               <hi>That Steel is the worſt In<g ref="char:EOLhyphen"/>ſtrument of Death, and beſt of Life:</hi> Wherefore our Learned and well Ex<g ref="char:EOLhyphen"/>perienc'd <hi>Doctors</hi> now adays abbreviate the tedious and va<g ref="char:EOLhyphen"/>rious
+<pb n="6" facs="tcp:99235:5"/>
+               <hi>Theraupeutick</hi> method of <hi>Phyſick,</hi> and in lieu of it pre<g ref="char:EOLhyphen"/>ſcribe their <hi>Patients</hi> only a <hi>Chalybeat</hi> courſe to ſatisfie all in<g ref="char:EOLhyphen"/>tentions, judging it to be <hi>inſtar omnium,</hi> or equivalent to all other preſcriptions,
+<note n="*" place="margin">
+                  <g ref="char:V">Ʋ</g>t hujus veluti panacaee uſus caetera poſſit excuſare Medicamenta.</note> and as a Lear<g ref="char:EOLhyphen"/>ned <hi>Phyſitian</hi> was wont to ſay, <hi>As true as Steel.</hi>
+            </p>
+            <p>The <hi>Sanative</hi> Virtues and Energies of thoſe <hi>Waters</hi> are beyond any <hi>Polypharmacon</hi> preſcription imaginable, being very prevalent againſt frequent <hi>Giddineſs</hi> and <hi>Scotomia, Paſſions of the Heart,</hi> and <hi>Fainting of Spirits,</hi> with a fear and dread as it were of preſent Death. In <hi>Hypochondriacal</hi> and <hi>Hyſterick Fits,</hi> by ſupreſſing the <hi>Anathymiaſis</hi> of ill Va<g ref="char:EOLhyphen"/>pours, and hindering Damps to exhale to the <hi>Head</hi> and <hi>Heart,</hi> no Remedy more effectual. In <hi>Scurvy</hi> which is an <hi>Endemick</hi> Diſeaſe, it is an Appropriate and Specifick Re<g ref="char:EOLhyphen"/>medy, by correcting the deprav'd <hi>Ferments</hi> and <hi>Dulcifying</hi> the Blood: In <hi>Hemorrhagies</hi> taken with Advice, it is of great ſtrength and force: In both <hi>Obſtructions</hi> and over<g ref="char:EOLhyphen"/>flowing of the <hi>Terms</hi> alſo, an excellent Remedy: Its good againſt all Obſtructions of <hi>Liver, Spleen,</hi> and <hi>Meſentery; Leucophlegmatia, Febris Alba, Seu Amatoria,</hi> or <hi>Green<g ref="char:EOLhyphen"/>ſickneſs, Stone, Gravel:</hi> Nay, it Cures <hi>Hydrophobia,</hi> or the Diſeaſe call'd the <hi>Fear of Water,</hi> commonly contracted by the Bite of a <hi>Mad-Dog</hi> methodically Drank.</p>
+            <p>Moreover theſe <hi>Waters</hi> are endowed with an admirable and Powerful Faculty in rendring thoſe who Drink of them <hi>Fruitful</hi> and <hi>Prolifick;</hi> by reaſon of their <hi>Spirituous Ferment</hi> they Enliven, Invigorat and Actuate the whole <hi>Maſſe of Blood,</hi> the nobler parts of the Body and Spirits thereof. Likewiſe reduce them from a <hi>Saline</hi> or <hi>Sulphureous Dyſcraſie,</hi> and ſometimes from both, to a ſweet <hi>Balſamick, Spirituous,</hi> and <hi>Sanguineous Temperament,</hi>
+               <note n="*" place="margin">Actiones ſequuntur tem<g ref="char:EOLhyphen"/>peramentum corporis.</note> which naturally incites and inſpires men and
+<pb n="7" facs="tcp:99235:5"/>Women to <hi>Amorous Emotions</hi> and <hi>Titillations,</hi> being previous Diſpoſitions, enabling them to <hi>Procreation:</hi> This may be the <hi>Aitiology</hi> of this product in ſome ſenſe.</p>
+            <p>
+               <hi>Venus</hi> comes from the Salt Sea through many <hi>Crannies, Interſtices, Pores</hi> of the Earth, and dangerous <hi>Precipices</hi> foaming to meet her beloved <hi>Mars</hi> in the Bowels of the Earth: whom ſhe no ſooner embraces, but ſhe is Impreg<g ref="char:EOLhyphen"/>nated and big with a <hi>Valliant Hero,</hi> in the Bed of Honour with no inſipid delight: From thence ſoon after this Con<g ref="char:EOLhyphen"/>greſſion, ſhe riſes Tryumphing in our <hi>Hemiſphere</hi> at <hi>Tun<g ref="char:EOLhyphen"/>bridge,</hi> generouſly imparting and diſtributing this Impreg<g ref="char:EOLhyphen"/>native Faculty to her <hi>Votaries,</hi>
+               <note place="margin">Omne bonum ſui communita<g ref="char:EOLhyphen"/>tivum.</note> in or<g ref="char:EOLhyphen"/>der to preſerve and perpetuate Man<g ref="char:EOLhyphen"/>kind.</p>
+            <lg>
+               <head>
+                  <hi>To Her,</hi> Mars <hi>in a Poetical</hi> Rhapſodie <hi>ſpeaks.</hi>
+               </head>
+               <l>Tu Dea? tu rerum naturam Sola gubernas,</l>
+               <l>Nec ſine te quidquam, dias in luminis oras</l>
+               <l>Exoritur: nec ſit laetum nec amabile quicquam.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thou Goddeſs! turneſt Natures Wheel,</hi>
+               </l>
+               <l>
+                  <hi>To thee All-Beings do Appeal;</hi>
+               </l>
+               <l>
+                  <hi>Without Thee, neither Joy nor Love, we feel.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>So Paſſionate was he for a married</hi> Venus: <hi>To theſe Lines I may annex a Poetical Hypotheſis,</hi> de aquis Chalibeatis, <hi>or</hi> Chalibeat-waters <hi>made by a Learned and Ingenious Man, alluding to the preceding Diſcourſe.</hi>
+            </p>
+            <lg>
+               <l>Quid valet obdurum placide diſſolvere Martem,</l>
+               <l>Ecce <hi>Venus</hi> madidans, mollit amore Deum.</l>
+               <l>Spuma maris tranſit telluris ſedula rimas,</l>
+               <l>Quem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ardet juvenem; quaerit ubi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> furens.</l>
+               <l>
+                  <pb n="8" facs="tcp:99235:6"/>Non erit ergo novum ſi noſtris emicet undis,</l>
+               <l>Hìc Martem exultans convenit illa ſuum.</l>
+               <l>Salſis in Terrae thalamo complexibus hument,</l>
+               <l>Surgit &amp; exploſus colliquefactus Amor.</l>
+               <l>Hinc tantis dignae ferratae laudibus undae:</l>
+               <l>
+                  <hi>Mars</hi> praebet robur: Dat <hi>Venus</hi> alma decus.</l>
+               <l>Huc queis forma perit: huc, huc properate puellae,</l>
+               <l>Vos Pulchras reddit candida limpha Deas.</l>
+               <l>Hue properate ſenes, curvans quos deprimit aetas,</l>
+               <l>Ecce Dei vires exhibit unda ſui.</l>
+               <l>Ventriculos implete mares: implete puellae,</l>
+               <l>Quos bibitis fontes rivus Amoris erunt.</l>
+               <l>Poſthac de <hi>Baccho</hi> fileant proverbia: friget</l>
+               <l>Non ſine Lenaeo, ſed ſine <hi>Marte V-enus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>What thing can reach</hi> Mars <hi>his hard heart?</hi>
+               </l>
+               <l>
+                  <hi>'Tis</hi> Venus <hi>only has the Dart.</hi>
+               </l>
+               <l>
+                  <hi>The foaming Sea finds</hi> Terra's <hi>chinks,</hi>
+               </l>
+               <l>
+                  <hi>And mad with Love, into 'em ſinks.</hi>
+               </l>
+               <l>
+                  <hi>'Tis nothing ſtrange if</hi> Venus <hi>riſe,</hi>
+               </l>
+               <l>
+                  <hi>And both in Joy, here ſympathiſe.</hi>
+               </l>
+               <l>
+                  <hi>Moiſten'd in Salt Embraces Bed,</hi>
+               </l>
+               <l>
+                  <hi>She melted, riſing rears her head.</hi>
+               </l>
+               <l>
+                  <hi>Hence Waters Fame of Iron race,</hi>
+               </l>
+               <l>Mars <hi>gives the Strength,</hi> Venus <hi>the Grace</hi>
+               </l>
+               <l>
+                  <hi>Come hither Dames, whoſe Beauties fade,</hi>
+               </l>
+               <l>
+                  <hi>A Goddeſs in a trice is made.</hi>
+               </l>
+               <l>
+                  <hi>Come hither Old, whom Age has bent,</hi>
+               </l>
+               <l>
+                  <hi>Gods Pow'r is Omnipotent.</hi>
+               </l>
+               <l>
+                  <hi>Drink Men and Women, drink and ſwell,</hi>
+               </l>
+               <l>
+                  <hi>You can't drink dry kind</hi> Cupids <hi>Well.</hi>
+               </l>
+               <l>
+                  <hi>Drink Sirs and Ladies; He, She Dove,</hi>
+               </l>
+               <l>
+                  <hi>What here you drink, increaſes Love.</hi>
+               </l>
+               <l>
+                  <pb n="9" facs="tcp:99235:6"/>
+                  <hi>No more of</hi> Bacchus; Venus <hi>chill</hi>
+               </l>
+               <l>
+                  <hi>Appears, when</hi> Mars <hi>has no good will.</hi>
+               </l>
+               <l>
+                  <hi>Nay, only then to ſay I'm bold,</hi>
+               </l>
+               <l>Venus <hi>is ſo when</hi> Mars <hi>is cold.</hi>
+               </l>
+            </lg>
+            <p>Notwithſtanding all theſe <hi>Encomiums</hi> of the <hi>Waters,</hi> yet ſome are of opinion they are not proper in ſome kind of <hi>Maladies:</hi> As in a <hi>Rheumatiſm,</hi> nor in <hi>Hectick Feavers,</hi> or <hi>Conſumptions: Firſt,</hi> by reaſon of the ill ſucceſs they are wont to have in uſing theſe <hi>Waters. Secondly,</hi> Becauſe in them the parts are much weak'ned, and Nature cannot throw off the Glut of Waters ſent into the Blood: In <hi>Rheumatick</hi> Perſons the Nervous Juice degenerates from its <hi>Craſis,</hi> and inclines to a ſharpiſh Nature, and is wont to be perverted by the fluid Salts of the <hi>Spaw-Waters:</hi> As Doctor <hi>Willis</hi> well obſerves, <hi>As for Hecticks, they are com<g ref="char:EOLhyphen"/>monly of a fine texture of Body, much Diſtempered with Heat, Drineſs, and Coſtiveneſs; all which Symptoms are rather increaſed by</hi> Chalybeats, <hi>than abated:</hi> Wherefore the Learned Dr. <hi>Willis</hi> in his Chapter of <hi>Chalybeats,</hi> ſays, <hi>That Steel is not proper in very Hot and Spiritous Blood, nor where the the Bowels are of a hot Temperament:</hi> Neither are theſe <hi>Waters</hi> good, but rather hurtful to thoſe who are in perfect Health, according to <hi>Hippocrates</hi> ſentiment; who ſays, <hi>Medicamenta non conveniunt ſanis:</hi> Medicaments are not convenient for Sound and Healthy Perſons. Moreover, they are Judged not proper for Women with Child: Becauſe whatever provokes <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> as theſe <hi>Waters</hi> do, provokes alſo the <hi>Terms,</hi> and whatever provokes 'em in Women, cauſes Miſcarriage; therefore not fit for them in this cir<g ref="char:EOLhyphen"/>cumſtance.</p>
+            <p>Old and Antient Perſons are not to be too bold in drin<g ref="char:EOLhyphen"/>king theſe <hi>Waters,</hi> becauſe their Ferments and Natural
+<pb n="10" facs="tcp:99235:7"/>Faculties are much debilitated by decay of Nature, and not ſufficient to exert their Function in diſtributing theſe <hi>Waters,</hi> which if remaining in their Body, and being not carried off, Suffocates the Vital Flames of the <hi>Heart</hi> and <hi>Arteries: Wine</hi> therefore for 'em is moſt convenient.
+<note n="*" place="margin">
+                  <hi>Deus enim Vinum hominibus quaſi auxilium adverſus ſe<g ref="char:EOLhyphen"/>nectutis auſteritatem pharma cum largitus est, ut reviviſ<g ref="char:EOLhyphen"/>cere videantur, &amp; maestitiae oblivio capiat: at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ipſe ani<g ref="char:EOLhyphen"/>mi habitus mollise duro factus ut ferrum Igni impoſitum, tractabilior fiat unde Vinum a non nullis lac ſenum nomi<g ref="char:EOLhyphen"/>natur.</hi> Loſſius.</note> For God has given <hi>Wine</hi> as a <hi>Phyſick-help</hi> againſt the Moroſs Auſterity of Age, that by the moderate uſe thereof, Old Men may in a manner renew their Lives, and forget their Aches; even the habit of the Mind from a hard<g ref="char:EOLhyphen"/>ned condition, is become ſoft; as Iron by the help of Fire is made more tractable; where<g ref="char:EOLhyphen"/>upon <hi>Wine</hi> is call'd, <hi>Lac ſenum,</hi> the <hi>Old Mans Milk.</hi>
+            </p>
+            <p>The method which is to be obſerved in drinking theſe <hi>Waters,</hi> is as followeth: <hi>Firſt,</hi> To drink for three or four days every Morning, <hi>Epſom</hi> or <hi>North-Hall Waters,</hi> to Purge the Body and prepare it in order to <hi>Tunbridge:</hi> For unleſs the firſt paſſages are cleanſed, <hi>Medicines</hi> deſigned for any other uſe, will be depraved by the filth reſiding in them. Theſe <hi>Purging-Waters</hi> may be drunk to three or four Pints, either raw or boyl'd, and altered with Milk. This being done, drink of <hi>Tunbridge,</hi> walking gently to the Fountain-Head.
+<note n="*" place="margin">
+                  <hi>Nam dulcius &amp; utilius ex Fonte bibuntur: delatae enim ex propriis Fontibus fieri non potest quin amittant vivificos illos Spiritus inquo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> omnis vivamenti vis conſiſtit, quos nullo postea labore reſtitui po<g ref="char:EOLhyphen"/>teſt</hi> Bacchius <hi>de thermis.</hi>
+               </note> For <hi>Waters</hi> are more pleaſant and profitable ta<g ref="char:EOLhyphen"/>ken at the Fountain-Head: Whence once removed, they loſe their <hi>Vivific Spirits,</hi> in which all Virtue does re<g ref="char:EOLhyphen"/>ſide: which afterward no diligence can recover.</p>
+            <p>For being impregnated with a <hi>Spiritous</hi> and <hi>volatile Ex<g ref="char:EOLhyphen"/>halations,</hi> they eaſily loſe their Virtue by the <hi>Avolation</hi> of
+<pb n="11" facs="tcp:99235:7"/>
+               <hi>Fugitive Parts</hi> being carried at a diſtance: That they are embodied with ſuch ſubtile parts, you may experience it ſenſibly by putting a Bottle half full of them, about Sun<g ref="char:EOLhyphen"/>riſing to your eyes; and from thence you'll perceive ſuch Emanation of Efluviums to come <hi>Analogous</hi> to thoſe of <hi>Orange-peel</hi> when ſqueez'd, as will ſtimulate and irritate the tender <hi>Tunicles</hi> of your Eyes: This I have by Tradition from a <hi>Phyſician,</hi> who for many years frequen<g ref="char:EOLhyphen"/>ted <hi>Tunbrige,</hi> and made great ſcrutiny into the <hi>Nature</hi> and <hi>Idioſyncraſia</hi> of theſe <hi>Waters;</hi> yet this I know, that <hi>Chalybeat-waters</hi> in long deportation; or being ſome ſpace of time out of the Fountain, will not tinge with <hi>Galls</hi> or <hi>Oaken</hi> leaves, at leaſt not ſo intenſe as before: whence I deduce that, in carriage to ſome diſtance, or being long our of the Fountain, they are dive<g ref="char:EOLhyphen"/>ſted of their Martial, and conſe<g ref="char:EOLhyphen"/>quently Medicinal Power.
+<note n="*" place="margin">
+                  <g ref="char:V">Ʋ</g>num quod<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quo magis elongatur a principio eò ma<g ref="char:EOLhyphen"/>gis langueſcit.</note>
+            </p>
+            <p>They are to be drunk gradually, and with leaſure, not in great draughts, with little or no intermiſſion, becauſe they are chiefly preſcrib'd to purifie and keep in its due <hi>Craſis</hi> the Blood and Nervous Juice, to open Obſtructions, and ſtrengthen the <hi>Tone</hi> of the <hi>Nervous Plexus:</hi> Now this they effect, by inſinuating Subtile and Active Particles of different State and Origine, into the <hi>Morbifick Minera,</hi> conquering and ſubduing <hi>Saline</hi> and <hi>Irritative Particles</hi> reſiding in the Blood, and carrying ſome forth as Priſo<g ref="char:EOLhyphen"/>ners, by <hi>
+                  <g ref="char:V">Ʋ</g>rine.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> This <hi>Mutual Con<g ref="char:EOLhyphen"/>teſt</hi> betwixt the Combatants of <hi>Cha<g ref="char:EOLhyphen"/>lybeats</hi> and their <hi>Antagoniſt,</hi> cannot be expected to be at an end in haſte, or in ſhort ſpace of time, but after ma<g ref="char:EOLhyphen"/>ny Attacks and ſeveral Colliſions, and as I may ſay, bro<g ref="char:EOLhyphen"/>ken Pates: But precipitate drinking deſtroys all theſe in<g ref="char:EOLhyphen"/>tentions, and leaves no time for alteration, aſſimulation,
+<pb n="12" facs="tcp:99235:8"/>or Mortification of <hi>Particles</hi> of diffe<g ref="char:EOLhyphen"/>rent Nature and Figure; Where<g ref="char:EOLhyphen"/>fore it's better to
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Feſtina lente</hi> Hippes, <hi>omne nimium Naturae inimicum quod vero paulatim fit, tutum eſt pre<g ref="char:EOLhyphen"/>ſertim ſi ab uno ad aliud pro<g ref="char:EOLhyphen"/>grediatur.</hi>
+               </note> haſten ſlowly, and drink 'em leaſurely, with due inter<g ref="char:EOLhyphen"/>vals.</p>
+            <p>Moreover, great draughts are ge<g ref="char:EOLhyphen"/>nerally held Pernicious, Deſtructive, and rather oppreſ<g ref="char:EOLhyphen"/>ſing than alleviating Nature: And conſidering theſe <hi>Wa<g ref="char:EOLhyphen"/>ters</hi> are not Virtuated ſo much by their quantity as quality inherent in them, the Body participates more of the latter frequently drinking a little, than by powering in, a vaſt and ſtupendious quantity at one time, like <hi>Tricongius Me<g ref="char:EOLhyphen"/>diolanenſis,</hi> who drunk three Gallons at one draught, and from thence took his Name.</p>
+            <p>The compaſs of time wherein the <hi>Waters</hi> are uſually drunk, is an hour, or an hour and a half, walking be<g ref="char:EOLhyphen"/>twixt whiles moderately,
+<note n="*" place="margin">Ad Ruborem, ſed non ad Sudorem.</note> till you look red, but not ſweat, leaſt you divert 'em from the <hi>
+                  <g ref="char:V">Ʋ</g>rinary</hi> paſſage to the <hi>Periphery</hi> of the Body, (for the ſame matter goeth by <hi>Sweat</hi> as by <hi>
+                  <g ref="char:V">Ʋ</g>rine</hi>) and cauſe too great an <hi>Efferveſcency</hi> in the Blood.</p>
+            <p>The meaſure of time to continue the drinking of theſe <hi>Waters</hi> for good effect, is commonly a Month, or ſix Weeks: But by the Authority of <hi>Claudinus,</hi> and many other Doctors, we may continue a Steel courſe for the ſpace of a Year: Why not a <hi>Fortiori,</hi> or much more, the uſe of theſe <hi>Waters</hi> with as much ſafety and benefit, they being the moſt perfect courſe of <hi>Steel;</hi> becauſe here the Elements of <hi>Steel</hi> are in un-concrete and ſeminal Principles, and diſplay themſelves, as (I before mentioned out of Dr. <hi>Sydenham.</hi>) Suppoſing in this Adminiſtation, there be reſpect had to the Patients ſtrength, Diſeaſe, Euphory,
+<pb n="13" facs="tcp:99235:8"/>or well-bearing; Temperament of the Air, and other Circumſtances.</p>
+            <p>They are to be taken, gradually increaſing and leſſen<g ref="char:EOLhyphen"/>ing; the Doſe at the beginning, and before their end of the whole ſpace of time appointed for the taking of them. As in reference to the number of Glaſſes. In my Judge<g ref="char:EOLhyphen"/>ment, you may make it either odd or even: Tho' ſome <hi>Phyloſophers</hi> who are of Opinion, that all things are com<g ref="char:EOLhyphen"/>poſed of number, prefer the odd before the other, and attribute to it a great Efficacy and Perfection, eſpecially in matters of <hi>Phyſick:</hi> Wherefore it is that many Doctors preſcribe always an odd <hi>Pill,</hi> an odd <hi>Draught</hi> or <hi>Drop</hi> to be taken by their Patients. For the perfection thereof, they alledge theſe following Numbers. As <hi>Seven Planets, Seven Wonders of the World;
+<note place="margin">Numero Deus impore gaudet.</note> Nine Muſes; God is Three and One,</hi> with many other Examples, which for brevity I ſuperſede; and let them abound in their own Senſe.</p>
+            <p>If there fall Rain, then the <hi>Waters</hi> are not ſeaſonable, becauſe they'l be too much diluted and weak'ned; but a little wet does no harm, but rather good, becauſe it waſhes the Salt in the <hi>Crannies</hi> and <hi>Interſtices</hi> of the Earth into the Fountain and more intenſly impreg<g ref="char:EOLhyphen"/>nates them.
+<note n="*" place="margin">Virtue unita fortior ſe ipſa diſperſa.</note>
+            </p>
+            <p>To correct the <hi>Crudities</hi> and <hi>Rawneſs</hi> of the <hi>Waters,</hi> and to acelerate their paſſing: <hi>Carroway Confects,</hi> and ſuch like Candied Seeds maſticated, are very good, and much commended, taken betwixt whiles: Likewiſe a Glaſs of ſmall <hi>White Wine</hi> is a pro<g ref="char:EOLhyphen"/>per <hi>Vehicle;</hi> and for all thoſe who are innur'd to <hi>Tobbacco</hi>
+               <note n="*" place="margin">
+                  <p>
+                     <hi>Nulla ſalutifero praeſtantior herba</hi> Tobacco.</p>
+                  <p>
+                     <hi>Interpone tuis interdum poca<g ref="char:EOLhyphen"/>la fumis.</hi>
+                  </p>
+               </note> nothing bet<g ref="char:EOLhyphen"/>ter than a Pipe of it for this effect,
+<pb n="14" facs="tcp:99235:9"/>taken btwixt whiles. To thoſe to whom it's offenſive ta<g ref="char:EOLhyphen"/>ken alone, may add thereunto ſome <hi>Tea</hi> leaves or <hi>Catechu,</hi> to qualifie the ingratefulneſs thereof, and render it in-of<g ref="char:EOLhyphen"/>fenſive taken Pipe-wiſe. This warms the Stomach with<g ref="char:EOLhyphen"/>out mixing any <hi>Heterogeneous</hi> Body with the <hi>Waters,</hi> that may obſtruct their diſtribution and paſſing, for it rarefies the <hi>Pores</hi> and <hi>Meatus</hi> in order thereunto.</p>
+            <p>It's obſerved that in ſome, the <hi>Waters</hi> being drunk at the Fountain Head; either by the inclemency of the Weather, or indiſpoſition of the Patient, will not eaſily paſs, but remain too long in the Body, to their great pre<g ref="char:EOLhyphen"/>judice and detriment: To theſe Perſons my advice is, to drink 'em in their warm Bed, without ſleeping, (which hin<g ref="char:EOLhyphen"/>ders all Evacuation) for as I ſaid before, the gentle heat of Bed dilates the paſſage, and conſequently the diſtribu<g ref="char:EOLhyphen"/>tion of the <hi>VVaters</hi> is much facilitated.</p>
+            <p>The <hi>Regimen</hi> which is obſerved in Eating and Drinking at thoſe <hi>VVaters,</hi> is as followeth. <hi>Firſt,</hi> Eſchew all groſs and obſtructive Meats, as <hi>Pork, Beef, Duck, Pudding, Sawſages,</hi> all Fry'd Victuals, as <hi>Eggs, Collops of Bacon,</hi> moſt ſorts of <hi>Fiſh,</hi> and <hi>Sallets:</hi> All Souced and Pickled Meats, as <hi>Anchovy, Cucumbers,</hi> &amp;c. refrain from <hi>Milk,</hi> and all <hi>Milk-Meats:</hi> Eat no <hi>Roots,</hi> or any ſort of <hi>Fruit,</hi> let your Meat be of eaſy Digeſtion and Nutritive, as the <hi>Greeks</hi> ſay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Keep no days of <hi>Faſt</hi> or <hi>Abſtinance</hi> during this time, if I may adviſe you as a <hi>Phy<g ref="char:EOLhyphen"/>ſician,</hi> and not as a <hi>Caſuiſt,</hi> leſt I encroach upon anothers Province, <hi>tractent fabrilia fabri,</hi> every one in his own Sphere.</p>
+            <p>Faſt three or four hours after the <hi>waters,</hi> and if at Din<g ref="char:EOLhyphen"/>ner you have an eſurine Appetite, take care not to eat too much, becauſe the quantity of <hi>waters</hi> you drunk, has re<g ref="char:EOLhyphen"/>lax'd and diſtended your Stomach, therefore little eating
+<pb n="15" facs="tcp:99235:9"/>is beſt according to the <hi>Latine</hi> Proverb, <hi>qui multum edere optat parum commedat,</hi> he that deſires to eat much, muſt eat little: Avoid variety of Meats, but if you indulge your ſelf to ſeveral ſorts, let the eaſier of digeſtion pre<g ref="char:EOLhyphen"/>cede the groſſer, and not be <hi>Poſt-poned</hi> as the <hi>Greeks</hi> ad<g ref="char:EOLhyphen"/>viſe us, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Let your Drink be clear, well fermented, not ſtale, nor ſower, not thick, nor muddy, not heating, nor cooling, but temperate; all Ale is prohibited, becauſe thick and muddy.—
+<q>
+                  <l>Nihil ſpiſſius illa dum ingeritur; nihil clarius cum egeritur:</l>
+                  <l>Ergo in corpore relinquit multas faeces.</l>
+               </q>
+               <q>
+                  <l>
+                     <hi>It goes in thick, and comes out thin,</hi>
+                  </l>
+                  <l>
+                     <hi>And therefore leaves its Dregs within.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Begin your Meals with a Glaſs of White Wine;
+<note place="margin">
+                  <p>
+                     <hi>Incipe cum Liquido: ficco ſi<g ref="char:EOLhyphen"/>nire memento Schola ſalerni<g ref="char:EOLhyphen"/>tana.</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>t vites paenam de potibu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> incipe caenam.</hi>
+                  </p>
+               </note> I recommend <hi>Aniou</hi> Wine beyond others, becauſe it's ſmall, clear, light, very diuretick, and of a ſingular virtue againſt the <hi>Stone</hi> or <hi>Gravel,</hi> and all Obſtructions of the <hi>Meſentery:</hi> Yet tho' you begin with <hi>Liquids,</hi> nevertheleſs be adviſed to conclude with <hi>Solids:</hi> by this means you firſt waſh and fortifie your Stomach, and at laſt cloſe the Orifice thereof, that no Fumes or Vapours ariſe to diſturb your Head: The <hi>French,</hi> who are eſteemed a Wiſe Nation, are always obſerved <hi>boucher la Bottle,</hi> to ſtop the Bottle, leaſt nothing exhale; ſo likewiſe they cloſe their Stomach with ſome <hi>Deſair</hi> or <hi>Sweet-Meat</hi> after, eating for the ſame intent.</p>
+            <p>All Exceſſes and Debauchery with late ſitting up at Nights, is pernicious and deſtructive during this time, for
+<pb n="16" facs="tcp:99235:10"/>many reaſons which I here omit, becauſe every one may experience it eaſily in himſelf, after ſuch <hi>Nocturnal Locu<g ref="char:EOLhyphen"/>bration;</hi> therefore, <hi>bibas ut vivas, ſed non vivas ut bibas:</hi> drink to live, but not live to drink.</p>
+            <p>To change your Linnen often will be convenient, if not neceſſary while you drink theſe <hi>VVaters,</hi> becauſe many Sooty fetid <hi>Sulphureous</hi> Steems come from 'em, which render your Shirt black, and ſome other <hi>Particles</hi> obſtruct the <hi>Pores</hi> of your Body, and make them impervious, and hinder inſenſible tranſpiration; which is an evacuation far greater and more conſiderable, than any manifeſt or ſenſible one, either by <hi>Seige</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> according to <hi>Sancto<g ref="char:EOLhyphen"/>rius de Sanctorio</hi> in his <hi>Medicina Statica.</hi>
+            </p>
+            <p>During the time you drink theſe <hi>Waters,</hi> it's neceſſary to take ſome gentle Medicine every fourth or fifth Night going to Bed, or in a Morning early, drinking theſe <hi>Wa<g ref="char:EOLhyphen"/>ters</hi> thereupon after the Phyſick hath begun to work.—Here <hi>Aloetick Medicine</hi> is held offenſive, by reaſon it con<g ref="char:EOLhyphen"/>ſiſts of <hi>Acrimonious</hi> and <hi>Lixivial</hi> parts, apt to heat and corrode the <hi>Viſcera:</hi> But this is eaſily ſolv'd, if to the <hi>Aloe<g ref="char:EOLhyphen"/>tick Phyſick</hi> you mix ſome <hi>Reſinous</hi> or <hi>Balſamick</hi> Subſtance which may lenifie, mitigate hebetat and obtunde the fiery <hi>Alkaly's</hi> of <hi>Aloes:</hi> And with this correction, or preparation, it is not only rendred leſs hurtful, but particularly an ap<g ref="char:EOLhyphen"/>propriat Medicine to be taken with theſe <hi>Waters:</hi> My uſual <hi>Pill</hi> is ♃ <hi>Maſſae Pilul Ruffi</hi> ℈i. <hi>reſinae Jalap</hi> gr. iij. <hi>Balſam peru</hi> q. ſ. f. <hi>Pilulae</hi> iij. <hi>ſumendae hora ſomni, ſuper<g ref="char:EOLhyphen"/>bibenao mane aquas predictas ad</hi> 
+               <abbr>lbiiij.</abbr> 
+               <hi>plus minuſue:</hi> Many Doctors give <hi>Diacaſſia cum Manna</hi> to an Ounce over-night, which is a good <hi>Eccoprotick,</hi> fit for all Ages and Conſtitu<g ref="char:EOLhyphen"/>tions, and leave no ill <hi>Diatheſis</hi> in the <hi>Viſcera:</hi> Another rare <hi>Eccoprotick</hi> and <hi>Ecphractick</hi> Remedy is highly commended with theſe <hi>Waters,</hi> which is <hi>Tin<g ref="char:EOLhyphen"/>ctura
+<pb n="17" facs="tcp:99235:10"/>Cathartica,</hi> an Ounce of which, or an Ounce and a half given in the firſt Glaſs Purgeth <hi>cito tutò jucunde,</hi> ſoon, ſafe, and pleaſantly: For no violent <hi>Catharticks</hi> are proper with theſe <hi>Waters,</hi> for fear of agitating and irritating Nature too much, and making an ill impreſſion on the <hi>Blood</hi> and <hi>Viſcera:</hi> I know ſome, who in lieu of <hi>Phyſick</hi> will take in the firſt Glaſs to Purge them, a ſpoonful of common Salt with very good ſucceſs, but this Remedy is not proper for all Conſtitutions.</p>
+            <p>Thoſe who are obnoxious to <hi>Stone</hi> or <hi>Gravel,</hi> and fre<g ref="char:EOLhyphen"/>quent theſe <hi>Waters:</hi> My advice is, that the Night prece<g ref="char:EOLhyphen"/>dent drinking 'em, they take an emollient <hi>Gliſter,</hi> and in the Morning an hour or two before the <hi>Waters,</hi> to ſwallow four or five <hi>Pills</hi> of <hi>Venice</hi> or <hi>Chios Turpenthine.</hi>
+            </p>
+            <p>Likewiſe in the firſt Glaſs to take an Ounce of <hi>Syrup</hi> of <hi>Marſh-Mallows;</hi> or let them take the bigneſs of a Bean of <hi>Lucatellus Balſom</hi> or <hi>Turpenthine Pills,</hi> eſpecially if there be any <hi>Excoriation</hi> in the <hi>Kidneys</hi> or <hi>Bladder,</hi> every Night going to Bed. with an Ounce of the ſaid <hi>Syrup</hi> in the firſt Glaſs every Morning, and an <hi>Emollient Gliſter</hi> every third, or fourth Night; becauſe by theſe means the paſ<g ref="char:EOLhyphen"/>ſages are lubricated, and the diſtribution of the <hi>Waters</hi> rendred more eaſy.</p>
+            <p>
+               <hi>Hypochondriacal</hi> Perſons may take in the firſt Glaſs a ſpoonful or two of the <hi>Syrup</hi> of <hi>Steel,</hi> or a Dram of <hi>Cre<g ref="char:EOLhyphen"/>mor Tartar</hi> in Powder; and ſo likewiſe in all other Di<g ref="char:EOLhyphen"/>ſtempers, to mix <hi>Specificks</hi> with <hi>Chalybeats,</hi> is the Opinion of Dr. <hi>Willis, de morbis Hypochondriacis,</hi> and many other Learned <hi>Phyſicians,</hi> for in ſo doing, they aſſociate their Operation againſt the Malady.</p>
+            <p>Now as to the <hi>Animi pathemata,</hi> or Paſſions of the Mind: Thoſe who drink theſe <hi>Waters,</hi> muſt be Facetious, Merry, Cheerful, Gay, Jovial, free from Melancholly,
+<pb n="18" facs="tcp:99235:11"/>Jealoſy, Suſpicion, Diſcontent, Pee<g ref="char:EOLhyphen"/>viſhneſs, <hi>&amp;c.</hi>
+               <note n="*" place="margin">Edaces animi curae ſolici utdines, triſtitiae maerores at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ejus generis &amp; farinae alia ani<g ref="char:EOLhyphen"/>mi pathemata abigenda.</note> becauſe ſuch Paſſions as theſe corrode both Soul and Body: impede the benefit they may reap by the <hi>Waters;</hi> nay in lieu of Health, they may catch their Death; ſo great is the Sympathy betwixt Body and Soul in their diſorder.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Non Sine animo corpus nec ſine corpore animus bene valere poteſt:</hi> The Mind without the Body, nor the Body without the Mind cannot be well.— What a <hi>Cataſtrophe</hi> have Paſſions of the Mind with fear and apprehenſion of Death? (which of all terrible things is the moſt terrible) made in condemn'd Perſons Bodys in few days; inſomuch that thoſe who were before Condemnation, Young, Vigorous, Intrepid, Magnanimous, <hi>&amp;c.</hi> were afterwards Metamorphoz'd in<g ref="char:EOLhyphen"/>to Old, Effete, Puſilanimous, Decay'd Bodys with Gray Hair and <hi>Hippocratical</hi> Faces, which is the Viſſage of a Dying Man, after being waſted away with long Sickneſs. We experimentally ſee that Women impart their Marks of fancy, even to the Child they carry in their Womb: It's obſerv'd that <hi>Phyſicians</hi> prepoſſeſs their Patients with hopes of Cure, to the end that the effect of Imagination may ſupply the defect of their <hi>Phyſick:</hi> A Doctor being asked the Queſtion, why he could not cure his Mother in Law, as well as his Father? He wittily reply'd, That his Mother in Law, had not the ſame confidence, or rather fancy for him, as his Father had, otherwiſe the Cure would be ef<g ref="char:EOLhyphen"/>fected: So great you ſee is the Influence of the Fancy, or Imagitation on the Body of Man.</p>
+            <p>Likewiſe the effects of the Body are Communicated to the Mind: You ſee for Example, Valiant Heroick Mag<g ref="char:EOLhyphen"/>nanimous Souls by change of Tempreament of Body ei<g ref="char:EOLhyphen"/>ther
+<pb n="19" facs="tcp:99235:11"/>ther by Diſeaſe or Old Age, become Timorous, Suſpici<g ref="char:EOLhyphen"/>ous, Puſillanimous, Cowards. <hi>[Omnia tuta timent,]</hi> more like Statues than Men, of theſe <hi>Hippocrates</hi> ſays, <hi>Vidi mortuos ambulantes:</hi> I have ſeen dead Men walk, their Body is a Sepulcher to their Soul, and as the <hi>Greeks</hi> ſay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which is, the Body is become <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a Sepulcher: <hi>Cor<g ref="char:EOLhyphen"/>pus quod corrumpitur aggravat animam;</hi> a decay'd and cor<g ref="char:EOLhyphen"/>rupting Body is a Load and Burden to the Soul, and by its Impurities and Feculency is infected: <hi>In ficitur Terrae ſor<g ref="char:EOLhyphen"/>dibus unda fluens.</hi>
+            </p>
+            <q>
+               <l>The cleareſt Currents as they glide,</l>
+               <l>Take foulneſs from the Rivers ſide.</l>
+            </q>
+            <p>
+               <note n="*" place="margin">Animus.</note> Ad nullum conſurgit opus
+<q>
+                  <l>
+                     <hi>Cum Corpore languet.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>For when the Body Languiſhing doth lie,</l>
+                  <l>The Soul it ſelf to nothing can apply.</l>
+               </q>
+            </p>
+            <p>Wherefore the way to have <hi>mens ſana
+<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> in corpore ſano,</hi> or to be every way ſound, is to leave pinching cares behind when you come to <hi>Tunbridge:</hi> Expatiat your Mind, and harken ſometimes to the Charming Muſick you have here, the choiceſt and beſt can be had: It's an <hi>Antidote</hi> againſt the <hi>Spleen.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Dulciſonum reficit triſtia corda melos.</hi>
+               </l>
+            </q>
+            <q>
+               <l>Melodious Songs do oft impart,</l>
+               <l>Refreſhment to the ſaddeſt Heart.</l>
+            </q>
+            <p>For Melody gently ſoothing Nature, diſpoſes and directs the Spirits into a Dancing, and obſerving regular motions: You ſee Muſick by its Influence, forces ſound and ſober Men even againſt their own wills, or thinking of other things, to actions emulating the Tune heard: <hi>Willis de Convulſione à Tarantula.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:99235:12"/>
+               <hi>Phyſicians,</hi> whom Almighty God has Created for the neceſſity, and uſe of Man-kind, and commands us to Honour,
+<note n="*" place="margin">
+                  <hi>Eccleſiaſticus cap.</hi> XXXVIII. <hi>verſ.</hi> 1. <hi>&amp;</hi> 2.</note>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> are here many Able, Worthy, and Eminent of that Pro<g ref="char:EOLhyphen"/>feſſion, who by their diligent Scrutiny into the Receſſes of Nature, are come of late years to great Perfection and Knowledge of Phyſick here in <hi>England,</hi> far excelling thoſe of former Ages, wherein Phyſick laboured under a dying <hi>Hippocratical</hi> Face; and in <hi>Cimerian Darkneſs:</hi> Theſe Doctors are in this place ready to aſſiſt with their Learned Preſcription and Wholſom Advice, according to the exigency of every one, in order to their Health, and Methodically drinking the <hi>Waters.</hi> — Many Learned Di<g ref="char:EOLhyphen"/>vines and Spiritual Guides are not here wanting, whom you may freely conſult and make choice of according to your Inclination, in order to the good and ſafety of your Soul.</p>
+            <lg>
+               <head>
+                  <hi>Here are Women whom they call</hi> Dippers, <hi>ready to fill you Glaſſes of Water.</hi>
+               </head>
+               <l>Confeſtim advolitat, quae pocula porrigat ultrô</l>
+               <l>Plena perennis Aquae, quam Fons ſine munere donat.</l>
+               <l>Qualem nec Latium novit, nec Graecia iactat:</l>
+               <l>Illa beat ſiccos faecunda ſtirpe parentes.</l>
+               <l>Deciduum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> facit, poſt funera vivere nomen,</l>
+               <l>Illa domat febres, &amp; ſi male calculus haerens.</l>
+               <l>Renibus aut peni languentia uiſcera torquet.</l>
+               <l>Illa fugat, pellit curas, &amp; nubila menti,</l>
+               <l>Diſcutiens, aptat Doctis, ſacrat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Camaenis.</l>
+               <l>
+                  <hi>With winged ſpeed one to you Glaſses brings,</hi>
+               </l>
+               <l>
+                  <hi>With</hi> Water <hi>fill'd, free as the Living Springs;</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Fame far above</hi> Rome's <hi>or</hi> Greece's <hi>Rings.</hi>
+               </l>
+               <l>
+                  <pb n="21" facs="tcp:99235:12"/>
+                  <hi>This bleſſeth Parents with a Fruitful Race,</hi>
+               </l>
+               <l>
+                  <hi>That even Death it ſelf cannot deface.</hi>
+               </l>
+               <l>
+                  <hi>This</hi> Waters, Feavers <hi>and the</hi> Stone <hi>caſheers,</hi>
+               </l>
+               <l>
+                  <hi>That vext the</hi> Shaft <hi>and</hi> Kidneys <hi>many years.</hi>
+               </l>
+               <l>
+                  <hi>This chaſeth Sorrow, clears a cloudy Mind,</hi>
+               </l>
+               <l>
+                  <hi>Fits it for Learning; which with</hi> Muſes <hi>joyn'd,</hi>
+               </l>
+               <l>
+                  <hi>All here a Seat, and Temple too, do find.</hi>
+               </l>
+            </lg>
+            <p>The Air, which to the Preſervation of Man's Life, nothing's more neceſſary, as <hi>Phyloſophers</hi> all agree, (and the derivation of the very word Air, from the <hi>Greek</hi> word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Spiro</hi> denotes the ſame, being Compos'd of two <hi>Vowels, Alpha</hi> and <hi>Omega,</hi> as <hi>Principium &amp; finis Vitae,</hi> which is the beginning and end of Mans Life;) is here Clear, Serene, Lucid, void of any ſtinking <hi>Mephitis</hi> or Damps ariſing from <hi>Boggs</hi> or <hi>Fens,</hi> which may occaſion <hi>Epidemical Diſtempers</hi> in the <hi>Blood,</hi> but to the contrary, the whole <hi>Ambient</hi> of the <hi>Horizon</hi> is fill'd with an inexhau<g ref="char:EOLhyphen"/>ſtable Series of Odoriferous and Fragrant Effluviums, in<g ref="char:EOLhyphen"/>ceſſantly exhaling from ſweet ſcented Herbs and Plants that grow in theſe parts. The Air thus embodied, we perpe<g ref="char:EOLhyphen"/>tually inſpire, which ariſe, and <hi>Analogically</hi> ſpeaking, Spiritualize our Minds far beyond all <hi>Exotick</hi> either Natu<g ref="char:EOLhyphen"/>ral or Artificial <hi>Perfumes.</hi>
+            </p>
+            <p>Moreover, at <hi>Tunbridge</hi> you find conference with Emi<g ref="char:EOLhyphen"/>nent and Famous Wits, which is the moſt Fruitful and Natural Exerciſe of the Mind; the uſe of which is more ſweet than any other action of our Life: The Study of Books is a Languiſhing and Feeble motion in reſpect of it: For what is delivered <hi>Viva Voce,</hi> with a Lively Voice, makes a deeper Impreſſion in the Mind, and conſequently more advantagious than Reading:
+<note place="margin">
+                  <hi>Sic variis animum ſtudiis</hi> Tun<g ref="char:EOLhyphen"/>brigia <hi>mulcet ut vix abſen<g ref="char:EOLhyphen"/>tes poſſis lugere Penates.</hi>
+               </note> Much more may be ſaid of the vari<g ref="char:EOLhyphen"/>ous and maniſold Benefits and Com<g ref="char:EOLhyphen"/>forts
+<pb n="22" facs="tcp:99235:13"/>you may receive at <hi>Tunbridge,</hi> which I now ſuper<g ref="char:EOLhyphen"/>ſede, hoping theſe I mentioned, are Allurements ſtrong enough to invite, if not a <hi>Magnetiſm</hi> to draw Men thither.</p>
+            <p>It's rare to Write any thing to that perfection, as to reſcind the occaſion of all objections from <hi>Cavillers:</hi> Wherefore what I have ſaid of the Virtues of theſe <hi>Waters,</hi> would not be ſufficient if I do not obviate alſo ſuch Ob<g ref="char:EOLhyphen"/>jections as may raiſe Scruples in the minds of theſe who make uſe of them.</p>
+            <p>The <hi>Firſt</hi> Objection is, That many ſoon after drinking of theſe <hi>Waters,</hi> died; and that others by the uſe of them, receive no benefit: Whence they infer theſe <hi>Waters</hi> to be Improper, Noxious, Lethiferous, and not fit to be drunk by Men.</p>
+            <q>
+               <l>
+                  <hi>Vina bibant homines, animantia caetera Fontes,</hi>
+               </l>
+               <l>
+                  <hi>Abſit ab humano pectore potus Aquae.</hi>
+               </l>
+            </q>
+            <q>
+               <l>Let none but Cattle Water drink,</l>
+               <l>That, fit for Men, no Man can think.</l>
+            </q>
+            <p>As for the firſt Objection, I confeſs one may die ſoon after taking Waters, and ſo may he after taking any thing elſe: Not that the Waters duly preſcribed, are occaſion of Death, but through Irregularity, Diſorder, or neglect of ſomething that was to be done in order to the taking of them, Death may enſue; Nay Men may die immediately or ſoon after taking things indifferent in themſelves, and void of any <hi>Medicinal</hi> or <hi>Alterative</hi> quality, as for example, after eating <hi>Bread and Butter,</hi> or drinking a Glaſs of Wine: It doth not therefore follow that this laſt thing they eat or drunk cauſe their Bane, and that no Man ought to eat or drink any more of this kind of Food.</p>
+            <p>
+               <hi>Secondly,</hi> Some of thoſe who drink <hi>Waters,</hi> may have a <hi>Malady</hi> of <hi>Cacoethes</hi> Nature, or of ſuch a contumacy
+<pb n="23" facs="tcp:99235:13"/>and ſo far radicated, that it illudes all Energie of <hi>Chalybeats</hi> or any ſort of Phyſick.
+<note n="*" place="margin">Non eſt in Medico ſemper, releuetur ut aeger nam Doctâ interdum plus valet orte malum ovidius.</note> It does not follow therefore that this Martial Remedy is ineffectual in its ſelf in order to cure other <hi>Maladies</hi> of a different Nature; by reaſon of the impregnable habit and rooting of ſome incurable Diſtempers: <hi>Non defa<g ref="char:EOLhyphen"/>manda praeſidia quae aliis profuere Celſus.</hi> Remedies which have done others good, are not to be undervalued;
+<note n="*" place="margin">Actiones activorum ſunt in ſubjecto dispoſito.</note> they exert their Operation according to the diſpo<g ref="char:EOLhyphen"/>ſiton of the ſubject on which they work: The Sun for example with the ſame heat melts the Wax and hardens the Clay, <hi>Limus ut hic dureſcit &amp; haec ut cera liqueſcit uno eodem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> igne.— Virgilius,</hi> and by this reaſon that which is one Mans Meat, may prove anothers Poyſon. So like<g ref="char:EOLhyphen"/>wiſe theſe <hi>Waters,</hi> if uſed with a Phyſicians Advice, and due conſideration, prove Effectual and Salubrious: But taken without it, and by an indiſpos'd or unprepar'd Bo<g ref="char:EOLhyphen"/>dies, may be <hi>Noxious</hi> and ſometimes <hi>Morti-ferous:</hi> Wherefore, ſince all things do not agree with all Per<g ref="char:EOLhyphen"/>ſons; nay, nor the ſame thing always, or a long time with the ſame perſon, therefore the careful Obſervation and daily Advice of a Prudent Phyſician is here neceſſary, that by <hi>Indications</hi> taken from things that do good or hurt, the Method of Cure may be rightly ordered, and now and then changed. <hi>Willis, Capite de colico.</hi>
+            </p>
+            <p>Theſe <hi>Waters</hi> kill and expel all manner of <hi>Worms,</hi> in<g ref="char:EOLhyphen"/>gendered either in the <hi>Stomach, Inteſtines, Matrix,</hi> or in any other part of the Body.—<hi>Ryetius,</hi> in his Obſerva<g ref="char:EOLhyphen"/>tions of the <hi>Spaw-Waters,</hi> makes mention of a Woman, who laboured a long time with a <hi>Chronicki Diſtemper</hi> under the Doctors hands, without receiving any benefit
+<pb n="24" facs="tcp:99235:14"/>by all their Preſcriptions and Phyſick that ſhe had taken; was at laſt adviſed to <hi>Chalybeat-Waters,</hi> and by drinkig of them with Method and Continuance, avoided ſeve<g ref="char:EOLhyphen"/>ral <hi>Worms</hi> of divers Shapes, Figure, and Longitude, and was perfectly Cured.</p>
+            <p>They are a <hi>Polychreſt</hi> Remedy, ſerving for many uſes and intentions; they both Looſen and Bind; Cool and make Hot; Dry and Moiſten: Cure Diſtempers of divers State and Origen, nay, of contrary Natures and Diſpoſi<g ref="char:EOLhyphen"/>tions, (as I ſaid before.) Certainly a perfect Knowledge of their <hi>Idioſyncraſia</hi> and <hi>Properties</hi> wou'd reduce Phyſick to a narrower compaſs, and to Preſcribe well the <hi>Stadium Chalybeatum,</hi> or <hi>Chalybeat</hi> courſe wou'd make the Study<g ref="char:EOLhyphen"/>ing of ſo many Volums of the parts of Phyſick unnceſſary, for by the help of theſe <hi>Waters,</hi> we prolong Mans life by a more facil and eaſier means than has hitherto been known, <hi>Veritas ex puteo exathlanda.</hi> Truth muſt be drawn out of a Well.</p>
+            <lg>
+               <l>Provocat haec leniter <hi>Tunbrigia</hi> menſtrua pridem,</l>
+               <l>Suppreſſa, &amp; nimium ſiſtit ubi illa fluunt.</l>
+               <l>Noſtra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuppreſſos ut provocat ipſa viciſſim,</l>
+               <l>Immodicos Fluxus ſic quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſiſtit Aqua:</l>
+               <l>Stringunt quippe ſuâ vi lymphae five relaxant,</l>
+               <l>Frigore tum corpus ſive calore juvant.</l>
+               <l>Ecquis idem Medicamen eodem in corpore credat,</l>
+               <l>Adverſa inter ſe pellere poſſe mala!</l>
+               <l>
+                  <hi>Theſe</hi> Waters <hi>Virtue have to ope and cloſe,</hi>
+               </l>
+               <l>
+                  <hi>What may be call'd the Females</hi> Monthly Roſe.</l>
+               <l>
+                  <hi>Theſe</hi> Waters <hi>looſen, and as firmly bind,</hi>
+               </l>
+               <l>
+                  <hi>As in all</hi> Fluxes <hi>any one may find.</hi>
+               </l>
+               <l>
+                  <hi>By their own virtue ſtrengthen and relax,</hi>
+               </l>
+               <l>
+                  <hi>Both heat and cool, dry Clay, and harden Wax.</hi>
+               </l>
+               <l>
+                  <hi>'Tis ſtrange that in one Body the ſame thing</hi>
+               </l>
+               <l>
+                  <hi>Shou'd croſs-grain'd Maladies to cure bring.</hi>
+               </l>
+            </lg>
+            <p>
+               <pb n="25" facs="tcp:99235:14"/>Ecce quam ſint Naturae Omnipotentis Dei, prudentia &amp; poteſtate ductae, admiranda opera quae Aquae iſtius limpidae at purae beneficio tot, tam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> inter ſe contrarios morbos curat, id quod ars Medica ſine Corporis noxä preſtare ne<g ref="char:EOLhyphen"/>quit.— Ryetius <hi>in his Obſervations</hi> de Aquis Spadanis.</p>
+            <p>
+               <hi>Behold the Wonderful Works of Nature, guided by the Prudence and Power of the Almighty God, that by the help of a limpid and clear Water, ſhe cures manifold, nay con<g ref="char:EOLhyphen"/>trary and oppoſit Maladies, which the Art of Phyſick without great detriment to the Body, cannot do.</hi>
+            </p>
+            <p>To accelerate and promote the paſſing of theſe <hi>Waters</hi> by <hi>
+                  <g ref="char:V">Ʋ</g>rine, Ryetius</hi> adviſes ſome Drops of <hi>Spirit</hi> of <hi>Vitrol</hi> to be Inſtill'd into their Glaſſes of <hi>Water,</hi> for <hi>Acids</hi> being endowed with a Diuretick and Penetrative Faculty de<g ref="char:EOLhyphen"/>poſe the <hi>Serum,</hi> and conveys it to the <hi>Reins,</hi> to be ſent forth by the <hi>
+                  <g ref="char:V">Ʋ</g>reters.</hi>
+            </p>
+            <p>To promote Evacuation by Seige, he adviſeth to mix ſome common Salt in Powder with the <hi>Waters,</hi> and a Dram to every Pint, more or leſs, proportionating the quantity to the bearing of the Patient. This gently expels the looſe matter contain'd in the <hi>Ventricle</hi> and <hi>Inteſtines,</hi> Purgeth <hi>Viſcous Phlegm</hi> adhering to their <hi>Tunicles</hi> and <hi>Bi<g ref="char:EOLhyphen"/>lous Humours</hi> from the <hi>Pancreatick</hi> paſſages: But it's not to be taken indifferently by all Perſons.</p>
+            <lg>
+               <l>Dum juga montis aper, dum flumen Piſcis habebit,</l>
+               <l>Anchora fonſaegris, hic ſacra ſemper erit;</l>
+               <l>Ut bibat accurret (rumpantur ut ilia <hi>Codris</hi>)</l>
+               <l>
+                  <hi>Germanus, Scotus, Belga, Britannus Iber,</hi>
+               </l>
+               <l>Hinc Populus <hi>Floret,</hi> creſcet <hi>Tunbrigia,</hi> quidquid.</l>
+               <l>Bellum deſtruxit, mox reparabit Aqua.</l>
+               <l>
+                  <hi>Whilſt Boars on Mountains ſhall abide,</hi>
+               </l>
+               <l>
+                  <hi>Or Fiſhes in the River glide;</hi>
+               </l>
+               <l>
+                  <hi>So long both ſure and uncontroul'd,</hi>
+               </l>
+               <l>
+                  <hi>Will laſt this Health-firm Anchor-hold.</hi>
+               </l>
+               <l>
+                  <pb n="26" facs="tcp:99235:15" rendition="simple:additions"/>
+                  <hi>This Drink</hi> (<hi>let</hi> Codrus <hi>burſt with rage</hi>)</l>
+               <l>
+                  <hi>Will</hi> Engliſh, Scotch, <hi>and</hi> Iriſh <hi>Sage,</hi>
+               </l>
+               <l>
+                  <hi>With</hi> German, French, <hi>and</hi> Dutch <hi>engage.</hi>
+               </l>
+               <l>
+                  <hi>Hence Peoples Glory,</hi> Tunbridge <hi>praiſe,</hi>
+               </l>
+               <l>
+                  <hi>VVhat</hi> War <hi>thows down,</hi> Water <hi>will raiſe.</hi>
+               </l>
+            </lg>
+            <p>Thus much for <hi>Chalybeats,</hi> to comply with Your <hi>Honours</hi> Solicitations, hoping this rude <hi>Eſſay</hi> upon a Baren Sub<g ref="char:EOLhyphen"/>ject, may be cultivated by other <hi>Phyloſophers</hi> and <hi>Phyſi<g ref="char:EOLhyphen"/>cians</hi> better qualified to the benefit and advantage of Man<g ref="char:EOLhyphen"/>kind, eſpecially to Your <hi>Honours</hi> Satisfaction and Well<g ref="char:EOLhyphen"/>fare; whom Almighty God the Everlaſting Fountain and Source of <hi>Living Waters,</hi> preſerve with long Life and Health in this World, and grant immarceſcible <hi>Lawrels</hi> in that which is to come; which is the earneſt and unfained deſire of,</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>Your Honours Moſt Humble, and Obedient Servant, P.M. M.D.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 3 in the <hi>Marginal Note</hi> againſt l. 7. for <hi>diſſoluunt</hi> r. <hi>diſſolvit. ibid.</hi> againſt l. 8. for <hi>corrigunt</hi> r. <hi>corrigit.</hi> l. 10. for <hi>Fredericus</hi> r. <hi>Fridericus.</hi> l. 8.19. <hi>dele Becauſe. ibid.</hi> againſt l. 27. for <hi>magna</hi> r. <hi>magno.</hi> p. 4. l. 9. for <hi>Peccaturque</hi> r. <hi>Pacaturque. Marg.</hi> l. 3. for <hi>fermentorum</hi> r. <hi>fermentum.</hi> l. 9. for <hi>redintegrant</hi> r. <hi>re<g ref="char:EOLhyphen"/>dintegrat.</hi> l. ult for <hi>Fredericus</hi> r. <hi>Fridericus.</hi>
+            </p>
+            <pb facs="tcp:99235:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
